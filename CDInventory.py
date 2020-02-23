@@ -3,7 +3,7 @@
 # Desc: Starter Script for Assignment 05
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
-# Kenny Lu, 2020-Feb-21, Initial commit
+# Kenny Lu, 2020-Feb-21, Added features
 #------------------------------------------#
 
 # Declare variables
