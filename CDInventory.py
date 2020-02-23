@@ -61,7 +61,7 @@ while True:
             print("Entry #:", deleteEntry, "deleted")
             pass
         else:
-            print('Sorry nothing to delete empty inventory.')
+            print("Sorry nothing to delete empty inventory." '\n')
     elif strChoice == 's':
         # Save the data to a text file CDInventory.txt if the user chooses so
         objFile = open(strFileName, 'w')
