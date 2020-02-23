@@ -48,7 +48,6 @@ while True:
         print('ID, CD Title, Artist')
         for row in lstObject:
             print(*row.values(), sep = ', ')
-            print("")
     elif strChoice == 'd':
         # Add functionality of deleting an entry
         if len(lstObject) != 0: 
